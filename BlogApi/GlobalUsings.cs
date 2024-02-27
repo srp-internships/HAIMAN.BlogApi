@@ -1,0 +1,9 @@
+﻿global using BlogApi.Models;
+global using BlogApi.Services;
+global using BlogApi.Data;
+global using Microsoft.EntityFrameworkCore;
+global using BlogApi.Repositories;
+global using BlogApi.Interfaces;
+global using BlogApi.Dtos.Users;
+global using BlogApi.Dtos.Posts;
+global using AutoMapper;
